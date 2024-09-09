@@ -1,8 +1,10 @@
 {
   "firstName": "Suchetan",
+  "LastName": "Sonavane",
   "address": {
-    "addLine1": "addLine1", 
-    "addLine2": "addLine2", 
+    "addLine1": "Chuna Bhatti", 
+    "addLine2": "Sion", 
     "state": "Maharashtra"
+      
   }
 }
