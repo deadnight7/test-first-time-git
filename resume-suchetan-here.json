@@ -1,0 +1,8 @@
+{
+  "firstName": "Suchetan",
+  "address": {
+    "addLine1": "addLine1", 
+    "addLine2": "addLine2", 
+    "state": "Maharashtra"
+  }
+}
